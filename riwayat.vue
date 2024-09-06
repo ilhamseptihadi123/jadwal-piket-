@@ -20,9 +20,9 @@
           </thead>
           <tbody>
             <tr>
-              <td>senin,....</td>
-              <td>senin,....</td>
               <td>senin</td>
+              <td></td>
+              <td></td>
               <td></td>
             </tr>
             <tr>

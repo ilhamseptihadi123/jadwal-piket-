@@ -19,5 +19,12 @@
 </form>
       </div>
     </div>
+    <NuxtLink to="/siswa/">
+        <button type="button" class="btn btn-success">Kembali</button>
+      </NuxtLink>
   </div>
 </template>
+
+<style scoped>
+
+</style>

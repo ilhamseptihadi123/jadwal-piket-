@@ -81,7 +81,7 @@
             </ol>
           </div>
         </div>
-        <NuxtLink to="/siswa/">
+        <NuxtLink to="/walikelas/">
         <button type="button" class="btn btn-success">Kembali</button>
       </NuxtLink>
       </div>

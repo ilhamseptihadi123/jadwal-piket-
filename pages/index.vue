@@ -18,7 +18,7 @@
             <nuxt-link to="/siswa">
             <button type="button" class="btn btn-success btn-sm">siswa</button>
           </nuxt-link>
-          <nuxt-link to="/siswa/walikelas">
+          <nuxt-link to="/walikelas">
             <button type="button" class="btn btn-success btn-sm float-end">wali kelas</button>
           </nuxt-link>
           </div>
